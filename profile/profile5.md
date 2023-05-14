@@ -1,10 +1,11 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 👨‍💻 Olá, meu nome é <strong>Rafael Nochiyma!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Sou um aspirante a desenvolvedor e entusiasta em tecnologia. Tenho me dedicado intensamente ao estudo de inteligência artificial e automações, explorando as possibilidades fascinantes que esses campos oferecem. Meu objetivo é facilitar o acesso à tecnologia para pessoas mais simples e torna-lá acessivel a todos, ajudando em tarefas diárias e repetitivas.Desenvolvimento.
+Diga o que você está fazendo no momento, se trabalha ou estuda.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+💬 Informações de contato
+![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
 
@@ -26,4 +27,6 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafanoch&show_icons=true)
+
+[![rafanoch](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
